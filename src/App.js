@@ -7,7 +7,7 @@ import FoodRecognition from './components/FoodRecognition/FoodRecognition';
 import './App.css';
 
 const app = new Clarifai.App({
-  apiKey: '22d790c515cc415da3d75fbe78236577'
+  apiKey: '2bbff85c4977486096b0e13e56100aed'
  });
 
 class App extends Component {
